@@ -1,5 +1,7 @@
 # vue_car
 
+汽车选购案例以及碰撞检测demo
+
 ## Project setup
 ```
 npm install
@@ -14,6 +16,8 @@ npm run serve
 ```
 npm run build
 ```
+
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

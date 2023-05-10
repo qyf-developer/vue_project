@@ -1,4 +1,4 @@
-# vue_car
+# vue_car（threejs）
 
 汽车选购案例以及碰撞检测demo
 
